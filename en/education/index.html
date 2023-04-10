@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" type="image/x-icon" href="../../asset/images/common/favicon.ico">
+	<link rel="stylesheet" href="../../asset/css/common.css">
+	<title>BUSAN NATIONAL GUGAK CENTER</title>
+	<script src="../../asset/js/common.js"></script>
+	<script src="../../asset/js/sub.js"></script>
+</head>
+<body class="sub">
+<!-- /inc/header.html -->
+<header id="header"></header>
+
+
+<main class="sub-section">
+	<div id="subTop"></div>
+	
+	<div class="top-area">
+		<div class="month-num"></div>
+		<nav class="category-menu">
+			<div class="in-wrap">
+				<button class="btn-category all" onclick="sortCategory('all', this)">All</button>
+				<button class="btn-category type1" onclick="sortCategory('type1', this)">Educational expert</button>
+				<button class="btn-category type2" onclick="sortCategory('type2', this)">Ordinary person</button>
+				<button class="btn-category type3" onclick="sortCategory('type3', this)">Teenager</button>
+				<button class="btn-category type4" onclick="sortCategory('type4', this)">Foreigner</button>
+			</div>
+		</nav>
+		<a class="link-month link-prev" href=""><img src="../../asset/images/common/btn_prev.png" alt="prev month"></a>
+		<a class="link-month link-next" href=""><img src="../../asset/images/common/btn_next.png" alt="next month"></a>
+	</div>
+
+	<div class="board-area">
+		<ul class="board-list" id="boardList"></ul>
+	</div>
+</main>
+
+
+<script src="../../asset/js/board_set.js"></script>
+<!-- /inc/footer.html -->
+<footer id="footer"></footer>
+</body>
+</html>
