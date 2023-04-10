@@ -80,7 +80,10 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .sub-section .top-area .category-menu .btn-category.on {color: #fff;}
 .sub-section .top-area .category-menu .btn-category::after {content:'';display: inline-block;width:7px;height: 7px;border-radius: 50%;background: #fff;vertical-align: middle;margin-bottom: 3px;margin-left: 4px;}
 .sub-section .top-area .category-menu .btn-category.on::after {background: #fff !important;}
-.sub-section .top-area .category-menu .btn-category.all {background-color: #000;color: #fff;}
+
+.sub-section .top-area .category-menu .btn-category.all {}
+.sub-section .top-area .category-menu .btn-category.all.on,
+.sub-section .top-area .category-menu .btn-category.all::after {background-color: #000;}
 .sub-section .top-area .category-menu .btn-category.type1.on,
 .sub-section .top-area .category-menu .btn-category.type1::after {background-color: #00DB00;}
 .sub-section .top-area .category-menu .btn-category.type2.on,
@@ -93,27 +96,28 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .sub-section .top-area .category-menu .btn-category.type5::after {background-color: #9C33FF;}
 .sub-section .top-area .category-menu .btn-category.type6.on,
 .sub-section .top-area .category-menu .btn-category.type6::after {background-color: #FF7900;}
-.sub-section .top-area .category-menu::after {content: '';display: block;position: absolute;right:0;top:0;width:30px;height: 100%;background: linear-gradient(to right, transparent, #ffffff);}
 .sub-section .top-area .link-month {position: absolute;bottom:24px;}
 .sub-section .top-area .link-prev {left: 10px;}
 .sub-section .top-area .link-next {right: 10px;}
 .sub-section .inpage-top {background: #000;position: relative;padding:20px 50px;text-align: right;box-sizing: border-box;position: absolute;top:0;left:50%;width:100%;max-width: 1920px;transform: translateX(-50%);z-index: 10;}
 .sub-section .inpage-top + .board-content {padding-top: 68px;}
 .sub-section .inpage-top.toTop {position: fixed;top:0;}
+.sub-section .inpage-top .btn-back {position: relative;}
+.sub-section .inpage-top::before {content:'';display:block;position: absolute;left:50%;top:-1px;width:100vw;height: 100%;transform: translateX(-50%);background-color: #000;border-top: 1px solid #00000050;border-bottom: 1px solid #00000050;}
 
 .sub-section .board-area .board-con {padding:10px 30px 20px 110px;border-top:1px solid #00000050;}
 .sub-section .board-area .board-con .top-con > div {float: left;padding-top: 8px;cursor: pointer;}
 .sub-section .board-area .board-con .top-con::after {content: '';display: block;clear: both;}
 .sub-section .board-area .board-con .top-con .day-con {width:50px;font-size: 24px;line-height: 1.1;font-family: 'Helvetica';}
 .sub-section .board-area .board-con .top-con .week-con {width:60px;font-size: 14px;padding-top: 8px;font-family: 'Helvetica', 'Noto Sans KR';}
-.sub-section .board-area .board-con .top-con .category-con {width: 130px;font-size: 14px;font-weight: bold;font-family: 'Helvetica', 'Noto Sans KR';}
+.sub-section .board-area .board-con .top-con .category-con {width: 130px;font-size: 14px;font-weight: bold;font-family: 'Noto Sans KR';}
 .sub-section .board-area .type1 .category-con {color: #00DB00;}
 .sub-section .board-area .type2 .category-con {color: #FF00FF;}
 .sub-section .board-area .type3 .category-con {color: #0000FF;}
 .sub-section .board-area .type4 .category-con {color: #FF0000;}
 .sub-section .board-area .type5 .category-con {color: #9C33FF;}
 .sub-section .board-area .type6 .category-con {color: #FF7900;}
-.sub-section .board-area .board-con .top-con .title-con {width:calc(100% - (50px + 60px + 130px));font-size: 32px;box-sizing: border-box;padding-top: 0;font-weight: 300;line-height: 1.1;}
+.sub-section .board-area .board-con .top-con .title-con {width:calc(100% - (50px + 60px + 130px));font-size: 32px;box-sizing: border-box;padding-top: 0;font-weight: 300;line-height: 1.1;word-break: break-all;}
 .sub-section .board-area .board-con .bot-con {padding-top: 30px;display: none;}
 .sub-section .board-area .board-con .bot-con .board-img {display: block;width: 100%;margin-bottom: 20px;}
 .sub-section .board-area .board-con .bot-con .table-con {padding-left: 240px;}
@@ -196,15 +200,23 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .tickets-content h3 {font-weight: bold;color: #246FFD;padding-bottom: 16px;}
 .tickets-content h4 {font-size: 25px;font-weight: bold;margin-bottom: 20px;border-top:1px solid #000000;padding-top: 6px;}
 .tickets-content .table-wrap {margin-bottom: 80px;margin-top: 30px;}
+.tickets-content .table-wrap:last-child {margin-bottom: 0;}
 .tickets-content .table-wrap .row-con {display: flex;}
 .tickets-content .table-wrap .col-con {padding: 6px 0 18px;border-top:1px solid #000000;}
+.tickets-content .table-wrap .col-con:last-child {padding-bottom: 0;}
 .tickets-content .table-wrap .col-con:nth-child(1) {width: 27%;margin-right: 3%;}
 .tickets-content .table-wrap .col-con:nth-child(2) {width: 70%;}
 .tickets-content section .cap {border-top:1px solid #000000;padding-top: 16px;white-space: pre-line;}
+.tickets-content section .bu-cap {position: relative;padding-left: 10px;white-space: pre-line;}
+.tickets-content section .bu-cap::before {display: block;position: absolute;left:0;top:0;}
+.tickets-content section .bu-cap.type1::before {content:'-';}
+.tickets-content section .bu-cap.type2::before {content:'*';}
+
 .tickets-content .link-con {display: inline-block;height: 50px;line-height: 50px;padding: 0 20px;font-weight: bold;border-radius: 25px;color: #fff;background: #000;}
 .tickets-content hr {border:0;border-top:1px solid #000;}
 
 .tickets1 .right-area .table-wrap {margin-bottom: 80px;}
+.tickets1 .right-area .table-wrap:last-child {margin-bottom: 0;}
 .tickets1 .right-area .col-con {border:0;padding-bottom: 2px;}
 .tickets1 .right-area .col-con:nth-child(1) {font-weight: bold;}
 .tickets1 .right-area .row-con:first-child .col-con {border-top:1px solid #000000;}
@@ -216,9 +228,12 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .tickets2 .right-area .col-con {font-weight: bold;}
 .tickets2 .right-area .col-con p {margin-bottom: 20px;}
 .tickets2 .right-area .col-con img {margin-bottom: 20px;display: block;}
+.tickets2 .right-area .col-con img:last-child {margin-bottom: 0;}
 .tickets2 .right-area .col-con hr {margin-bottom: 10px;}
 .tickets3 section {margin-bottom: 70px;}
+.tickets3 section:last-child {margin-bottom: 0;}
 .tickets3 section .cap {margin-bottom: 20px;}
+.tickets3 section .cap:last-child {margin-bottom: 0;}
 .tickets3 .call-con {padding: 20px 0 10px 80px;}
 .tickets3 .call-con strong {display: block;}
 .tickets3 .call-con.con1 {background: url(../images/tickets/ico-con4.png) no-repeat left;}
@@ -298,12 +313,12 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 	.sub-section .top-area .month-num {font-size: 60px;margin-bottom: 20px;}
 	.sub-section .top-area .link-month {top:40px;}
 	.sub-section .top-area .link-month img {width: 15px;}
-	.sub-section .board-area .board-con {padding-right: 0;}
-	.sub-section .board-area .board-con .top-con .day-con {width: 34px;}
-	.sub-section .board-area .board-con .top-con .week-con {width: 46px;font-size: 12px;}
-	.sub-section .board-area .board-con .top-con .category-con {width: 70px;font-size: 12px;}
+	/* .sub-section .board-area .board-con {padding-right: 0;} */
+	.sub-section .board-area .board-con .top-con .day-con {width: 34px;padding-top: 6px;}
+	.sub-section .board-area .board-con .top-con .week-con {width: 46px;font-size: 12px;padding-top: 4px;}
+	.sub-section .board-area .board-con .top-con .category-con {width: 70px;font-size: 12px;padding-top: 2px;}
 	.sub-section .board-area .board-con .top-con .title-con {width:calc(100% - 150px);font-size: 23px;}
-	.sub-section .board-area .board-con .bot-con {padding-right: 30px;}
+	/* .sub-section .board-area .board-con .bot-con {padding-right: 30px;} */
 	.sub-section .board-area .board-con .bot-con .table-con {padding: 0;}
 	.sub-section .board-area .board-con .bot-con .table-con dt {width: 100px;}
 
@@ -332,6 +347,12 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 	.tickets .tab-menu .btn-tab {margin:0 0 10px;}
 	.tickets .tab-menu .btn-tab:first-child {margin-left: 20px;}
 	.tickets .tab-menu .btn-tab:last-child {margin-right: 20px;}
-	.tickets2 .vis-con {margin-right: 0;width: 40%;}
-	.tickets2 .vis-con:last-child {width: 30%;}
+	.tickets2 .vis-con {margin-right: 0;width: 33%;margin-right: 7%;}
+	.tickets2 .vis-con:last-child {width: 30%;margin-right: 0;}
+	.tickets2 .vis-con br {display: none;}
+
+	
+	.tickets1 .right-area .col-con {padding-bottom: 0;padding-top: 1px;}
+	.tickets-content .table-wrap .row-con:first-child .col-con {padding-top: 4px;}
+	.tickets3 .call-con {background-position: left 24px !important;}
 }
