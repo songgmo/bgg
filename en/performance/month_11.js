@@ -8,7 +8,7 @@ let schedule = [
 		inTit1: '10.27.(Fri) ~11.4.(Sat)  Weekdays 19:30 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
 		inTit3: 'S seat 20,000won, A seat 10,000won',
-		link: '0306.html'
+		link: '0101.html'
 	},
 	{
 		day: '2',
@@ -19,7 +19,7 @@ let schedule = [
 		inTit1: '10.27.(Fri) ~11.4.(Sat)  Weekdays 19:30 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
 		inTit3: 'S seat 20,000won, A seat 10,000won',
-		link: '0306.html'
+		link: '0101.html'
 	},
 	{
 		day: '3',
@@ -30,7 +30,7 @@ let schedule = [
 		inTit1: '10.27.(Fri) ~11.4.(Sat)  Weekdays 19:30 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
 		inTit3: 'S seat 20,000won, A seat 10,000won',
-		link: '0306.html'
+		link: '0101.html'
 	},
 	{
 		day: '4',
@@ -41,13 +41,13 @@ let schedule = [
 		inTit1: '10.27.(Fri) ~11.4.(Sat)  Weekdays 19:30 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
 		inTit3: 'S seat 20,000won, A seat 10,000won',
-		link: '0306.html'
+		link: '0101.html'
 	},
 	{
 		day: '24',
 		week: '금 FRI',
 		category: 'Exchange',
-		title: 'Namwon National Gugak Center Exchange Performance <Byeolnangakssi>',
+		title: 'Namwon National Gugak Center Exchange Performance &lt;Byeolnangakssi&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0603.jpg',
 		inTit1: '11. 24.(Fri) 19:30',
 		inTit2: 'Yeonak-dang Hall',
@@ -58,7 +58,7 @@ let schedule = [
 		day: '25',
 		week: '토 SAT',
 		category: 'Exchange',
-		title: 'Namwon National Gugak Center Exchange Performance <Byeolnangakssi>',
+		title: 'Namwon National Gugak Center Exchange Performance &lt;Byeolnangakssi&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0603.jpg',
 		inTit1: '11. 25.(Sat) 17:00',
 		inTit2: 'Yeonak-dang Hall',
