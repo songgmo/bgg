@@ -1,2 +1,2 @@
-# test.bgg
+# bgg
 songgmo.github.io/bgg
