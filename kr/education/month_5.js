@@ -1,7 +1,29 @@
 let schedule = [
 	{
-		day: '3',
+		day: '1',
 		week: '월 MON',
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
+	},
+	{
+		day: '2',
+		week: '화 TUE',
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
+	},
+	{
+		day: '3',
+		week: '수 WED',
 		category: '일반인',
 		title: '국악문화학교',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
@@ -12,7 +34,7 @@ let schedule = [
 	},
 	{
 		day: '4',
-		week: '화 TUE',
+		week: '목 THU',
 		category: '일반인',
 		title: '국악문화학교',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
@@ -23,40 +45,40 @@ let schedule = [
 	},
 	{
 		day: '5',
-		week: '수 WED',
-		category: '일반인',
-		title: '국악문화학교',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
-	},
-	{
-		day: '6',
-		week: '목 THU',
-		category: '일반인',
-		title: '국악문화학교',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
-	},
-	{
-		day: '7',
 		week: '금 FRI',
-		category: '청소년',
-		title: '청소년 국악탐방',
-		imgSrc: '../../asset/images/education/thumb/0302.jpg',
-		inTit1: '영남지역 소재 초등학생(3~6학년), 중학생',
-		inTit2: '-',
-		inTit3: '1인 3천원',
-		link: '0302.html'
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
+	},
+	{
+		day: '8',
+		week: '월 MON',
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
+	},
+	{
+		day: '9',
+		week: '화 TUE',
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
 	},
 	{
 		day: '10',
-		week: '월 MON',
+		week: '수 WED',
 		category: '일반인',
 		title: '국악문화학교',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
@@ -67,7 +89,7 @@ let schedule = [
 	},
 	{
 		day: '11',
-		week: '화 TUE',
+		week: '목 THU',
 		category: '일반인',
 		title: '국악문화학교',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
@@ -78,28 +100,6 @@ let schedule = [
 	},
 	{
 		day: '12',
-		week: '수 WED',
-		category: '일반인',
-		title: '국악문화학교',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
-	},
-	{
-		day: '13',
-		week: '목 THU',
-		category: '일반인',
-		title: '국악문화학교',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
-	},
-	{
-		day: '14',
 		week: '금 FRI',
 		category: '일반인',
 		title: '국악문화학교',
@@ -110,7 +110,7 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
-		day: '17',
+		day: '15',
 		week: '월 MON',
 		category: '일반인',
 		title: '국악문화학교',
@@ -121,7 +121,62 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
+		day: '16',
+		week: '화 TUE',
+		category: '일반인',
+		title: '2023 상반기 토요강연 이야기마당 <덤덤덤> ',
+		imgSrc: '../../asset/images/education/thumb/0205.jpg',
+		inTit1: '누구나',
+		inTit2: '명사초청',
+		inTit3: '무료',
+		link: '0205.html'
+	},
+	{
+		day: '17',
+		week: '수 WED',
+		category: '일반인',
+		title: '2023 상반기 토요강연 이야기마당 <덤덤덤> ',
+		imgSrc: '../../asset/images/education/thumb/0205.jpg',
+		inTit1: '누구나',
+		inTit2: '명사초청',
+		inTit3: '무료',
+		link: '0205.html'
+	},
+	{
 		day: '18',
+		week: '목 THU',
+		category: '일반인',
+		title: '2023 상반기 토요강연 이야기마당 <덤덤덤> ',
+		imgSrc: '../../asset/images/education/thumb/0205.jpg',
+		inTit1: '누구나',
+		inTit2: '명사초청',
+		inTit3: '무료',
+		link: '0205.html'
+	},
+	{
+		day: '19',
+		week: '금 FRI',
+		category: '일반인',
+		title: '2023 상반기 토요강연 이야기마당 <덤덤덤> ',
+		imgSrc: '../../asset/images/education/thumb/0205.jpg',
+		inTit1: '누구나',
+		inTit2: '명사초청',
+		inTit3: '무료',
+		link: '0205.html'
+	},
+	{
+		day: '22',
+		week: '월 MON',
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
+	},
+	{
+		day: '23',
 		week: '화 TUE',
 		category: '일반인',
 		title: '국악문화학교',
@@ -132,41 +187,8 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
-		day: '19',
-		week: '수 WED',
-		category: '일반인',
-		title: '국악문화학교',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
-	},
-	{
-		day: '20',
-		week: '목 THU',
-		category: '일반인',
-		title: '국악문화학교',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
-	},
-	{
-		day: '21',
-		week: '금 FRI',
-		category: '청소년',
-		title: '청소년 국악탐방',
-		imgSrc: '../../asset/images/education/thumb/0302.jpg',
-		inTit1: '영남지역 소재 초등학생(3~6학년), 중학생',
-		inTit2: '-',
-		inTit3: '1인 3천원',
-		link: '0302.html'
-	},
-	{
 		day: '24',
-		week: '월 MON',
+		week: '수 WED',
 		category: '일반인',
 		title: '국악문화학교',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
@@ -177,28 +199,17 @@ let schedule = [
 	},
 	{
 		day: '25',
-		week: '화 TUE',
-		category: '일반인',
-		title: '국악문화학교',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
+		week: '금 FRI',
+		category: '청소년',
+		title: '청소년 국악탐방',
+		imgSrc: '../../asset/images/education/thumb/0302.jpg',
+		inTit1: '영남지역 소재 초등학생(3~6학년), 중학생',
+		inTit2: '-',
+		inTit3: '1인 3천원',
+		link: '0302.html'
 	},
 	{
-		day: '26',
-		week: '수 WED',
-		category: '일반인',
-		title: '국악문화학교',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
-	},
-	{
-		day: '27',
+		day: '25',
 		week: '목 THU',
 		category: '일반인',
 		title: '국악문화학교',
@@ -209,8 +220,41 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
-		day: '28',
+		day: '26',
 		week: '금 FRI',
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
+	},
+	{
+		day: '29',
+		week: '월 MON',
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
+	},
+	{
+		day: '30',
+		week: '화 TUE',
+		category: '일반인',
+		title: '국악문화학교',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
+	},
+	{
+		day: '31',
+		week: '수 WED',
 		category: '일반인',
 		title: '국악문화학교',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',

@@ -147,4 +147,9 @@ function boardConDomSet(currentMonth) {
 		</li>`;
 		boardList.innerHTML += boardConDom[i];
 	}
+
+	if(!schedule.length)
+	{
+		boardList.innerHTML +=`<li class="board-con ${boardType}"></li>`;
+	}
 }

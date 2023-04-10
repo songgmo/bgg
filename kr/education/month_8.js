@@ -1,6 +1,6 @@
 let schedule = [
 	{
-		day: '10',
+		day: '1',
 		week: '화 TUE',
 		category: '교육전문가',
 		title: '교사 국악직무연수 ',
@@ -11,7 +11,7 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '11',
+		day: '2',
 		week: '수 WED',
 		category: '교육전문가',
 		title: '교사 국악직무연수 ',
@@ -22,7 +22,7 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '12',
+		day: '3',
 		week: '목 THU',
 		category: '교육전문가',
 		title: '교사 국악직무연수 ',
@@ -33,7 +33,7 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '13',
+		day: '4',
 		week: '금 FRI',
 		category: '교육전문가',
 		title: '교사 국악직무연수 ',
@@ -44,7 +44,7 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '14',
+		day: '5',
 		week: '토 SAT',
 		category: '교육전문가',
 		title: '교사 국악직무연수 ',
@@ -55,15 +55,14 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '28',
-		week: '토 SAT',
+		day: '30',
+		week: '수 WED',
 		category: '일반인',
-		title: '2023 상반기 토요강연 이야기마당 <덤덤덤> ',
-		imgSrc: '../../asset/images/education/thumb/0205.jpg',
-		inTit1: '누구나',
-		inTit2: '명사초청',
+		title: '명인에게 듣는 우리 국악',
+		imgSrc: '../../asset/images/education/thumb/0203.jpg',
+		inTit1: '부산 지역 주민',
+		inTit2: '유명 국악인',
 		inTit3: '무료',
-		link: '0205.html'
+		link: '0203.html'
 	},
 ];
-	
