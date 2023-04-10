@@ -8,7 +8,7 @@ let schedule = [
 		inTit1: '10.27.(금)~11.4.(토) 평일 19:30 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
-		link: '0306.html'
+		link: '0101.html'
 	},
 	{
 		day: '2',
@@ -19,7 +19,7 @@ let schedule = [
 		inTit1: '10.27.(금)~11.4.(토) 평일 19:30 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
-		link: '0306.html'
+		link: '0101.html'
 	},
 	{
 		day: '3',
@@ -30,7 +30,7 @@ let schedule = [
 		inTit1: '10.27.(금)~11.4.(토) 평일 19:30 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
-		link: '0306.html'
+		link: '0101.html'
 	},
 	{
 		day: '4',
@@ -41,7 +41,7 @@ let schedule = [
 		inTit1: '10.27.(금)~11.4.(토) 평일 19:30 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
-		link: '0306.html'
+		link: '0101.html'
 	},
 	{
 		day: '24',
