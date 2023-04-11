@@ -1,6 +1,6 @@
 let schedule = [
 	{
-		day: '10',
+		day: '1',
 		week: '화 TUE',
 		category: 'Educational expert',
 		title: 'Gugak Training for Teachers ',
@@ -11,7 +11,7 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '11',
+		day: '2',
 		week: '수 WED',
 		category: 'Educational expert',
 		title: 'Gugak Training for Teachers ',
@@ -22,7 +22,7 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '12',
+		day: '3',
 		week: '목 THU',
 		category: 'Educational expert',
 		title: 'Gugak Training for Teachers ',
@@ -33,7 +33,7 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '13',
+		day: '4',
 		week: '금 FRI',
 		category: 'Educational expert',
 		title: 'Gugak Training for Teachers ',
@@ -44,7 +44,7 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '14',
+		day: '5',
 		week: '토 SAT',
 		category: 'Educational expert',
 		title: 'Gugak Training for Teachers ',
@@ -55,15 +55,14 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '28',
-		week: '토 SAT',
+		day: '30',
+		week: '수 WED',
 		category: 'Ordinary person',
-		title: '2023 the First Half Saturday Lecture, Story Festival <Deom Deom Deom(More More Better)> ',
-		imgSrc: '../../asset/images/education/thumb/0205.jpg',
-		inTit1: 'Open to All',
-		inTit2: '-',
+		title: 'Talk with Masters',
+		imgSrc: '../../asset/images/education/thumb/0203.jpg',
+		inTit1: 'Busan local resident',
+		inTit2: 'Gugak Specialists',
 		inTit3: 'Free',
-		link: '0205.html'
+		link: '0203.html'
 	},
 ];
-	
