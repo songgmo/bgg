@@ -68,6 +68,12 @@ function boardConDomSet(currentMonth) {
 	let categoryName = [];
 	const moreBtnText = checkENG === false ? '더보기' : 'See more';
 
+	const btnCategory = this.document.querySelectorAll('.btn-category');
+	for (let i = 1; i < btnCategory.length; i++) 
+	{
+		btnCategory[i].style.display = "none";
+	}
+
 	// 서브페이지 확인
 	if (pathName.indexOf('performance') > -1) {
 		menuName = 'performance';
@@ -106,16 +112,22 @@ function boardConDomSet(currentMonth) {
 	for (let i = 0; i < schedule.length; i++) {
 		if (schedule[i].category == categoryName[0]){
 			boardType = 'type1';
+			btnCategory[1].style.display = "inline";
 		} else if (schedule[i].category == categoryName[1]){
 			boardType = 'type2';
+			btnCategory[2].style.display = "inline";
 		} else if (schedule[i].category == categoryName[2]){
 			boardType = 'type3';
+			btnCategory[3].style.display = "inline";
 		} else if (schedule[i].category == categoryName[3]){
 			boardType = 'type4';
+			btnCategory[4].style.display = "inline";
 		} else if (schedule[i].category == categoryName[4]){
 			boardType = 'type5';
+			btnCategory[5].style.display = "inline";
 		} else if (schedule[i].category == categoryName[5]){
 			boardType = 'type6';
+			btnCategory[6].style.display = "inline";
 		}
 
 		boardConDom[i] =
