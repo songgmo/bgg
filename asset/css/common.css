@@ -117,7 +117,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .sub-section .board-area .type4 .category-con {color: #FF0000;}
 .sub-section .board-area .type5 .category-con {color: #9C33FF;}
 .sub-section .board-area .type6 .category-con {color: #FF7900;}
-.sub-section .board-area .board-con .top-con .title-con {width:calc(100% - (50px + 60px + 130px));font-size: 32px;box-sizing: border-box;padding-top: 0;font-weight: 300;line-height: 1.1;word-break: break-all;}
+.sub-section .board-area .board-con .top-con .title-con {width:calc(100% - (50px + 60px + 130px));font-size: 28px;box-sizing: border-box;padding-top: 0;font-weight: 300;line-height: 1.1;word-break: break-all;}
 .sub-section .board-area .board-con .bot-con {padding-top: 30px;display: none;}
 .sub-section .board-area .board-con .bot-con .board-img {display: block;width: 100%;margin-bottom: 20px;}
 .sub-section .board-area .board-con .bot-con .table-con {padding-left: 240px;}

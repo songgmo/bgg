@@ -120,7 +120,7 @@ let schedule = [
 		inTit3: '150,000원',
 		link: '0201.html'
 	},
-	{
+/*	{
 		day: '16',
 		week: '화 TUE',
 		category: '일반인',
@@ -141,7 +141,7 @@ let schedule = [
 		inTit2: '명사초청',
 		inTit3: '무료',
 		link: '0205.html'
-	},
+	},*/
 	{
 		day: '18',
 		week: '목 THU',
@@ -153,7 +153,7 @@ let schedule = [
 		inTit3: '무료',
 		link: '0205.html'
 	},
-	{
+/*	{
 		day: '19',
 		week: '금 FRI',
 		category: '일반인',
@@ -163,7 +163,7 @@ let schedule = [
 		inTit2: '명사초청',
 		inTit3: '무료',
 		link: '0205.html'
-	},
+	},*/
 	{
 		day: '22',
 		week: '월 MON',

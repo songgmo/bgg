@@ -72,7 +72,7 @@ let schedule = [
 		title: '어린이 연희단',
 		imgSrc: '../../asset/images/education/thumb/0303.jpg',
 		inTit1: '부산지역 초등학교 3~6학년(60명)',
-		inTit2: '국립부산국악원 연주단원, 외부 강사',
+		inTit2: '국립부산국악원 국악연주단, 외부 강사',
 		inTit3: '100,000원',
 		link: '0303.html'
 	},
@@ -138,7 +138,7 @@ let schedule = [
 		title: '어린이 연희단',
 		imgSrc: '../../asset/images/education/thumb/0303.jpg',
 		inTit1: '부산지역 초등학교 3~6학년(60명)',
-		inTit2: '국립부산국악원 연주단원, 외부 강사',
+		inTit2: '국립부산국악원 국악연주단, 외부 강사',
 		inTit3: '100,000원',
 		link: '0303.html'
 	},
@@ -204,7 +204,7 @@ let schedule = [
 		title: '어린이 연희단',
 		imgSrc: '../../asset/images/education/thumb/0303.jpg',
 		inTit1: '부산지역 초등학교 3~6학년(60명)',
-		inTit2: '국립부산국악원 연주단원, 외부 강사',
+		inTit2: '국립부산국악원 국악연주단, 외부 강사',
 		inTit3: '100,000원',
 		link: '0303.html'
 	},
@@ -270,7 +270,7 @@ let schedule = [
 		title: '어린이 연희단',
 		imgSrc: '../../asset/images/education/thumb/0303.jpg',
 		inTit1: '부산지역 초등학교 3~6학년(60명)',
-		inTit2: '국립부산국악원 연주단원, 외부 강사',
+		inTit2: '국립부산국악원 국악연주단, 외부 강사',
 		inTit3: '100,000원',
 		link: '0303.html'
 	},

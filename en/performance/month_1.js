@@ -27,9 +27,9 @@ let schedule = [
 		category: 'Seasonal',
 		title: 'New Year Concert &lt;Black Rabbit Theatric Show Panpanpan&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0501.jpg',
-		inTit1: 'January 7, 14, 28, Every Saturday 15:00',
+		inTit1: '1.21.(Sat) ~1.22.(Sun) 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All seats 10,000won',
 		link: '0501.html'
 	},
 	{
@@ -38,9 +38,9 @@ let schedule = [
 		category: 'Seasonal',
 		title: 'New Year Concert &lt;Black Rabbit Theatric Show Panpanpan&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0501.jpg',
-		inTit1: 'January 7, 14, 28, Every Saturday 15:00',
+		inTit1: '1.21.(Sat) ~1.22.(Sun) 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All seats 10,000won',
 		link: '0501.html'
 	},
 	{

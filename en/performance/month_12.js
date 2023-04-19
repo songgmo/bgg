@@ -5,9 +5,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -16,9 +16,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -38,9 +38,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -49,9 +49,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -65,7 +65,7 @@ let schedule = [
 		inTit3: ' A seat 10,000won, B seat 8,000won',
 		link: '0402.html'
 	},
-	{
+	/*{
 		day: '15',
 		week: '금 FRI',
 		category: 'Special',
@@ -75,16 +75,16 @@ let schedule = [
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'Invitation for all seats',
 		link: '0308.html'
-	},
+	},*/
 	{
 		day: '15',
 		week: '금 FRI',
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -93,9 +93,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -115,9 +115,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -126,9 +126,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -148,9 +148,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 	{
@@ -159,9 +159,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12. 1.(Fri)~2.(Sat) , 12. 8.(Fri)~9.(Sat) , 12. 15.(Fri)~16.(Sat) , 12. 22.(Fri)~23.(Sat) , 12. 29.(Fri)~30.(Sat) , Weekdays 19:30, Weekends 11:00, 15:00',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
 		inTit2: 'Yeji-dang Hall',
-		inTit3: 'A seat 10,000won, B seat 8,000won',
+		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
 	},
 ];

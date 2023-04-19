@@ -95,7 +95,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0303.jpg',
 		inTit1: ' 5. 17.(Wed) 19:30',
 		inTit2: 'Yeji-dang Hall',
-		inTit3: ' A seat 10,000won, B seat 8,000won',
+		inTit3: 'All seats 10,000won',
 		link: '0303.html'
 	},
 	{
@@ -106,7 +106,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0303.jpg',
 		inTit1: ' 5. 18.(Thu) 15:00',
 		inTit2: 'Yeji-dang Hall',
-		inTit3: ' A seat 10,000won, B seat 8,000won',
+		inTit3: ' All seats 10,000won',
 		link: '0303.html'
 	},
 	{

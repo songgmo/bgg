@@ -39,7 +39,7 @@ let schedule = [
 		title: '어린이 연희단',
 		imgSrc: '../../asset/images/education/thumb/0303.jpg',
 		inTit1: '부산지역 초등학교 3~6학년(60명)',
-		inTit2: '국립부산국악원 연주단원, 외부 강사',
+		inTit2: '국립부산국악원 국악연주단, 외부 강사',
 		inTit3: '100,000원',
 		link: '0303.html'
 	},
@@ -105,7 +105,7 @@ let schedule = [
 		title: '어린이 연희단',
 		imgSrc: '../../asset/images/education/thumb/0303.jpg',
 		inTit1: '부산지역 초등학교 3~6학년(60명)',
-		inTit2: '국립부산국악원 연주단원, 외부 강사',
+		inTit2: '국립부산국악원 국악연주단, 외부 강사',
 		inTit3: '100,000원',
 		link: '0303.html'
 	},
@@ -165,28 +165,17 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
-		day: '17',
-		week: '금 FRI',
-		category: '교육전문가',
-		title: '예비교사 국악강좌',
-		imgSrc: '../../asset/images/education/thumb/0102.jpg',
-		inTit1: '부산, 진주, 대구 교대 재학생',
-		inTit2: '국립부산국악원 직단원, 외부 강사',
-		inTit3: '무료',
-		link: '0102.html'
-	},
-	{
 		day: '18',
 		week: '토 SAT',
 		category: '청소년',
 		title: '어린이 연희단',
 		imgSrc: '../../asset/images/education/thumb/0303.jpg',
 		inTit1: '부산지역 초등학교 3~6학년(60명)',
-		inTit2: '국립부산국악원 연주단원, 외부 강사',
+		inTit2: '국립부산국악원 국악연주단, 외부 강사',
 		inTit3: '100,000원',
 		link: '0303.html'
 	},
-	{
+/*	{
 		day: '20',
 		week: '월 MON',
 		category: '일반인',
@@ -240,7 +229,7 @@ let schedule = [
 		inTit2: '외부 강사',
 		inTit3: '150,000원',
 		link: '0201.html'
-	},
+	},*/
 	{
 		day: '25',
 		week: '토 SAT',
@@ -248,7 +237,7 @@ let schedule = [
 		title: '어린이 연희단',
 		imgSrc: '../../asset/images/education/thumb/0303.jpg',
 		inTit1: '부산지역 초등학교 3~6학년(60명)',
-		inTit2: '국립부산국악원 연주단원, 외부 강사',
+		inTit2: '국립부산국악원 국악연주단, 외부 강사',
 		inTit3: '100,000원',
 		link: '0303.html'
 	},
@@ -256,7 +245,7 @@ let schedule = [
 		day: '29',
 		week: '수 WED',
 		category: '일반인',
-		title: '명인에게 듣는 우리 국악',
+		title: '명사 초청 특강',
 		imgSrc: '../../asset/images/education/thumb/0203.jpg',
 		inTit1: '부산 지역 주민',
 		inTit2: '유명 국악인',

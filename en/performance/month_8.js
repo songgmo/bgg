@@ -72,8 +72,8 @@ let schedule = [
 		title: 'Children’s Musical &lt;Mermaid Hwangok&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0305.jpg',
 		inTit1: '8. 25.(Fri)  ~ 26.(Sat)  Weekdays 19:30, Weekends 11:00, 15:00',
-		inTit2: 'Yeji-dang Hall',
-		inTit3: 'S seat 20,000won A seat 10,000won',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'All Seats 10,000won',
 		link: '0305.html'
 	},
 	{
@@ -83,8 +83,8 @@ let schedule = [
 		title: 'Children’s Musical &lt;Mermaid Hwangok&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0305.jpg',
 		inTit1: '8. 25.(Fri)  ~ 26.(Sat)  Weekdays 19:30, Weekends 11:00, 15:00',
-		inTit2: 'Yeji-dang Hall',
-		inTit3: 'S seat 20,000won A seat 10,000won',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'All Seats 10,000won',
 		link: '0305.html'
 	},
 ];

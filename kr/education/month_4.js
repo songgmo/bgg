@@ -1,9 +1,42 @@
 let schedule = [
 	{
-		day: '3',
+		day: '',
+		week: '연중',
+		category: '청소년',
+		title: '학교 국악강사 지원',
+		imgSrc: '../../asset/images/education/thumb/0301.jpg',
+		inTit1: '초등학생(3~6학년)',
+		inTit2: '국립부산국악원 직단원, 외부 강사',
+		inTit3: '100,000원',
+		link: '0301.html'
+	},
+	{
+		day: '',
+		week: '연중',
+		category: '일반인',
+		title: '국악과 함께하는 아름다운 동행',
+		imgSrc: '../../asset/images/education/thumb/0204.jpg',
+		inTit1: '장애인, 보육시설 어린이, 양로원 및 요양원',
+		inTit2: '외부 강사',
+		inTit3: '무료',
+		link: '0204.html'
+	},
+	{
+		day: '',
+		week: '연중',
+		category: '외국인',
+		title: '전통국악체험',
+		imgSrc: '../../asset/images/education/thumb/0401.jpg',
+		inTit1: '외국인 관광객, 업무협약기관, 기타 기관의 단체',
+		inTit2: '국립부산국악원 국악연주단',
+		inTit3: '1인 10,000원',
+		link: '0401.html'
+	},
+	{
+		day: '1',
 		week: '월 MON',
 		category: '일반인',
-		title: '국악문화학교',
+		title: '국악문화학교 <span style="font-size:20px;color:black;">법(북․장구) 해금A 가야금</span>	',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
 		inTit1: '일반인(성인)',
 		inTit2: '외부 강사',
@@ -25,7 +58,7 @@ let schedule = [
 		day: '5',
 		week: '수 WED',
 		category: '일반인',
-		title: '국악문화학교',
+		title: '<span style="font-size:34px;">국악문화학교 34px</span>',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
 		inTit1: '일반인(성인)',
 		inTit2: '외부 강사',
@@ -36,14 +69,14 @@ let schedule = [
 		day: '6',
 		week: '목 THU',
 		category: '일반인',
-		title: '국악문화학교',
+		title: '<span style="font-size:34px;">국악문화학교 34px</span>',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
 		inTit1: '일반인(성인)',
 		inTit2: '외부 강사',
 		inTit3: '150,000원',
 		link: '0201.html'
 	},
-	{
+/*	{
 		day: '7',
 		week: '금 FRI',
 		category: '청소년',
@@ -53,12 +86,12 @@ let schedule = [
 		inTit2: '-',
 		inTit3: '1인 3천원',
 		link: '0302.html'
-	},
+	},*/
 	{
 		day: '10',
 		week: '월 MON',
 		category: '일반인',
-		title: '국악문화학교',
+		title: '<span style="font-size:34px;">국악문화학교 34px</span>',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
 		inTit1: '일반인(성인)',
 		inTit2: '외부 강사',
@@ -69,7 +102,7 @@ let schedule = [
 		day: '11',
 		week: '화 TUE',
 		category: '일반인',
-		title: '국악문화학교',
+		title: '<span style="font-size:34px;">국악문화학교 34px</span>',
 		imgSrc: '../../asset/images/education/thumb/0201.jpg',
 		inTit1: '일반인(성인)',
 		inTit2: '외부 강사',
@@ -121,6 +154,17 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
+		day: '17',
+		week: '월 MON',
+		category: '교육전문가',
+		title: '예비교사 국악강좌',
+		imgSrc: '../../asset/images/education/thumb/0102.jpg',
+		inTit1: '부산, 진주, 대구 교대 재학생',
+		inTit2: '국립부산국악원 직단원, 외부 강사',
+		inTit3: '무료',
+		link: '0102.html'
+	},
+	{
 		day: '18',
 		week: '화 TUE',
 		category: '일반인',
@@ -130,6 +174,17 @@ let schedule = [
 		inTit2: '외부 강사',
 		inTit3: '150,000원',
 		link: '0201.html'
+	},
+	{
+		day: '18',
+		week: '화 TUE',
+		category: '교육전문가',
+		title: '예비교사 국악강좌',
+		imgSrc: '../../asset/images/education/thumb/0102.jpg',
+		inTit1: '부산, 진주, 대구 교대 재학생',
+		inTit2: '국립부산국악원 직단원, 외부 강사',
+		inTit3: '무료',
+		link: '0102.html'
 	},
 	{
 		day: '19',
@@ -143,6 +198,17 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
+		day: '19',
+		week: '수 WED',
+		category: '교육전문가',
+		title: '예비교사 국악강좌',
+		imgSrc: '../../asset/images/education/thumb/0102.jpg',
+		inTit1: '부산, 진주, 대구 교대 재학생',
+		inTit2: '국립부산국악원 직단원, 외부 강사',
+		inTit3: '무료',
+		link: '0102.html'
+	},
+	{
 		day: '20',
 		week: '목 THU',
 		category: '일반인',
@@ -154,6 +220,17 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
+		day: '20',
+		week: '목 THU',
+		category: '교육전문가',
+		title: '예비교사 국악강좌',
+		imgSrc: '../../asset/images/education/thumb/0102.jpg',
+		inTit1: '부산, 진주, 대구 교대 재학생',
+		inTit2: '국립부산국악원 직단원, 외부 강사',
+		inTit3: '무료',
+		link: '0102.html'
+	},
+	{
 		day: '21',
 		week: '금 FRI',
 		category: '청소년',
@@ -163,6 +240,17 @@ let schedule = [
 		inTit2: '-',
 		inTit3: '1인 3천원',
 		link: '0302.html'
+	},
+	{
+		day: '21',
+		week: '금 FRI',
+		category: '교육전문가',
+		title: '예비교사 국악강좌',
+		imgSrc: '../../asset/images/education/thumb/0102.jpg',
+		inTit1: '부산, 진주, 대구 교대 재학생',
+		inTit2: '국립부산국악원 직단원, 외부 강사',
+		inTit3: '무료',
+		link: '0102.html'
 	},
 	{
 		day: '24',

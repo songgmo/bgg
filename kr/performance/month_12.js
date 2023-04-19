@@ -5,9 +5,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -16,9 +16,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -27,7 +27,7 @@ let schedule = [
 		category: '상설공연',
 		title: '수요상설 <수요공감> ',
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
-		inTit1: ' 3·6·9·12월 매주 수요일 오후 7시 30분',
+		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
 		inTit3: 'A석 10,000원, B석 8,000원',
 		link: '0402.html'
@@ -38,9 +38,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -49,9 +49,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -60,31 +60,31 @@ let schedule = [
 		category: '상설공연',
 		title: '수요상설 <수요공감> ',
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
-		inTit1: ' 3·6·9·12월 매주 수요일 오후 7시 30분',
+		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
 		inTit3: 'A석 10,000원, B석 8,000원',
 		link: '0402.html'
 	},
-	{
+	/*{
 		day: '15',
 		week: '금 FRI',
 		category: '기획공연',
 		title: '국악창작실내악 <조약돌 Ⅱ>',
 		imgSrc: '../../asset/images/performance/thumb/0308.jpg',
-		inTit1: ' 12.15.(금) 19:30',
+		inTit1: '12.15.(금) 19:30',
 		inTit2: '예지당',
 		inTit3: '전석 초대',
 		link: '0308.html'
-	},
+	},*/
 	{
 		day: '15',
 		week: '금 FRI',
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -93,9 +93,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -104,7 +104,7 @@ let schedule = [
 		category: '상설공연',
 		title: '수요상설 <수요공감> ',
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
-		inTit1: ' 3·6·9·12월 매주 수요일 오후 7시 30분',
+		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
 		inTit3: 'A석 10,000원, B석 8,000원',
 		link: '0402.html'
@@ -115,9 +115,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -126,9 +126,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -137,7 +137,7 @@ let schedule = [
 		category: '상설공연',
 		title: '수요상설 <수요공감> ',
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
-		inTit1: ' 3·6·9·12월 매주 수요일 오후 7시 30분',
+		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
 		inTit3: 'A석 10,000원, B석 8,000원',
 		link: '0402.html'
@@ -148,9 +148,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 	{
@@ -159,9 +159,9 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: ' 12월 매주 금요일 19:30,  토요일 11시, 15시',
+		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
 		inTit2: '예지당',
-		inTit3: 'S석 10,000원 A석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0307.html'
 	},
 ];

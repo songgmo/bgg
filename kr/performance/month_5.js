@@ -5,7 +5,7 @@ let schedule = [
 		category: '기획공연',
 		title: '한류확산을 위한 국악공연 <춤, 조선통신사 -유마도를 그리다> 시즌Ⅱ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: ' 5. 3.(수) ~ 6(토), 10.(수) ~ 13.(토) 평일 20:00, 주말 15:00',
+		inTit1: '5.3.(수) ~ 5.6.(토), 5.10.(수) ~ 5.13.(토) 주중 20:00 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
 		link: '0302.html'
@@ -16,7 +16,7 @@ let schedule = [
 		category: '기획공연',
 		title: '한류확산을 위한 국악공연 <춤, 조선통신사 -유마도를 그리다> 시즌Ⅱ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: ' 5. 3.(수) ~ 6(토), 10.(수) ~ 13.(토) 평일 20:00, 주말 15:00',
+		inTit1: '5.3.(수) ~ 5.6.(토), 5.10.(수) ~ 5.13.(토) 주중 20:00 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
 		link: '0302.html'
@@ -27,7 +27,7 @@ let schedule = [
 		category: '기획공연',
 		title: '한류확산을 위한 국악공연 <춤, 조선통신사 -유마도를 그리다> 시즌Ⅱ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: ' 5. 3.(수) ~ 6(토), 10.(수) ~ 13.(토) 평일 20:00, 주말 15:00',
+		inTit1: '5.3.(수) ~ 5.6.(토), 5.10.(수) ~ 5.13.(토) 주중 20:00 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
 		link: '0302.html'
@@ -38,7 +38,7 @@ let schedule = [
 		category: '기획공연',
 		title: '한류확산을 위한 국악공연 <춤, 조선통신사 -유마도를 그리다> 시즌Ⅱ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: ' 5. 3.(수) ~ 6(토), 10.(수) ~ 13.(토) 평일 20:00, 주말 15:00',
+		inTit1: '5.3.(수) ~ 5.6.(토), 5.10.(수) ~ 5.13.(토) 주중 20:00 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
 		link: '0302.html'
@@ -49,7 +49,7 @@ let schedule = [
 		category: '기획공연',
 		title: '한류확산을 위한 국악공연 <춤, 조선통신사 -유마도를 그리다> 시즌Ⅱ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: ' 5. 3.(수) ~ 6(토), 10.(수) ~ 13.(토) 평일 20:00, 주말 15:00',
+		inTit1: '5.3.(수) ~ 5.6.(토), 5.10.(수) ~ 5.13.(토) 주중 20:00 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
 		link: '0302.html'
@@ -60,7 +60,7 @@ let schedule = [
 		category: '기획공연',
 		title: '한류확산을 위한 국악공연 <춤, 조선통신사 -유마도를 그리다> 시즌Ⅱ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: ' 5. 3.(수) ~ 6(토), 10.(수) ~ 13.(토) 평일 20:00, 주말 15:00',
+		inTit1: '5.3.(수) ~ 5.6.(토), 5.10.(수) ~ 5.13.(토) 주중 20:00 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
 		link: '0302.html'
@@ -71,7 +71,7 @@ let schedule = [
 		category: '기획공연',
 		title: '한류확산을 위한 국악공연 <춤, 조선통신사 -유마도를 그리다> 시즌Ⅱ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: ' 5. 3.(수) ~ 6(토), 10.(수) ~ 13.(토) 평일 20:00, 주말 15:00',
+		inTit1: '5.3.(수) ~ 5.6.(토), 5.10.(수) ~ 5.13.(토) 주중 20:00 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
 		link: '0302.html'
@@ -82,7 +82,7 @@ let schedule = [
 		category: '기획공연',
 		title: '한류확산을 위한 국악공연 <춤, 조선통신사 -유마도를 그리다> 시즌Ⅱ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: ' 5. 3.(수) ~ 6(토), 10.(수) ~ 13.(토) 평일 20:00, 주말 15:00',
+		inTit1: '5.3.(수) ~ 5.6.(토), 5.10.(수) ~ 5.13.(토) 주중 20:00 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 20,000원, A석 10,000원',
 		link: '0302.html'
@@ -93,9 +93,9 @@ let schedule = [
 		category: '기획공연',
 		title: '무장애공연 <소리극 옥이>',
 		imgSrc: '../../asset/images/performance/thumb/0303.jpg',
-		inTit1: ' 5. 17.(수) 19:30',
+		inTit1: '5.17.(수) 19:30 , 5.18.(목) 15:00',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0303.html'
 	},
 	{
@@ -104,9 +104,9 @@ let schedule = [
 		category: '기획공연',
 		title: '무장애공연 <소리극 옥이>',
 		imgSrc: '../../asset/images/performance/thumb/0303.jpg',
-		inTit1: ' 5. 18.(목) 15:00',
+		inTit1: '5.17.(수) 19:30 , 5.18.(목) 15:00',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: '전석 10,000원',
 		link: '0303.html'
 	},
 	{
@@ -115,7 +115,7 @@ let schedule = [
 		category: '상설공연',
 		title: '토요상설 <토요신명 2023> ',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: ' 2. 4. ~ 9. 23. 매주 토요일 15:00',
+		inTit1: '2. 4. ~ 9. 23. 매주 토요일 15:00',
 		inTit2: '예지당',
 		inTit3: 'A석 10,000원, B석 8,000원',
 		link: '0401.html'
@@ -126,7 +126,7 @@ let schedule = [
 		category: '상설공연',
 		title: '토요상설 <토요신명 2023> ',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: ' 2. 4. ~ 9. 23. 매주 토요일 15:00',
+		inTit1: '2. 4. ~ 9. 23. 매주 토요일 15:00',
 		inTit2: '예지당',
 		inTit3: 'A석 10,000원, B석 8,000원',
 		link: '0401.html'
