@@ -361,7 +361,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 	/* .sub-section .board-area .board-con .bot-con {padding-right: 30px;} */
 	.sub-section .board-area .board-con .bot-con .table-con {padding: 0;}
 	.sub-section .board-area .board-con .bot-con .table-con dt {width: 100px;}
-
+	.sub-section .board-area .board-con .bot-con .table-con dd {width: 200px;}
 	.board-content {padding: 0;}
 	.board-content .left-area {border: 0;float: none;width: auto;padding: 30px;}
 	.board-content .right-area {width: auto;padding: 30px;}
