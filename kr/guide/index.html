@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="../../asset/css/common.css">
 	<title>국립부산국악원</title>
 	<script src="../../asset/js/common.js"></script>
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=7adec4b7918b3ad485e9cd9505ae8ee5"></script>
 </head>
 <body class="sub">
 <!-- /inc/header.html -->
@@ -32,7 +33,7 @@
 		<div class="left-area">
 			<h2>국립부산국악원 소개</h2>
 			<p>
-				국립부산국악원은 부산․영남지역의 전통공연예술을 계승 발전시키기 위해 2008년 10월 28일 개원한 국립문화예술기관이다. 지역의 고유한 정서를  담은 전통공연예술의 아름다움을 새롭게 창출하여 문화발전에  기여하고자 한다.<br>
+				국립부산국악원은 부산&middot;영남지역의 전통공연예술을 계승 발전시키기 위해 2008년 10월 28일 개원한 국립문화예술기관이다. 지역의 고유한 정서를  담은 전통공연예술의 아름다움을 새롭게 창출하여 문화발전에  기여하고자 한다.<br>
 				<br>
 				또한, 고품격의 특화된 공연작품을 개발하여 국제해양문화도시이자 아시아 태평양의 거점도시인 부산의 문화 품격을 높이고, 나아가 한국전통 문화를  세계에 알리는데 앞장설 것이다.
 			</p>
@@ -41,7 +42,7 @@
 			<div class="img-wrap">
 				<img src="../../asset/images/guide/tab1_con1.jpg" alt="">
 				<img src="../../asset/images/guide/tab1_con2.jpg" alt="">
-				<img src="../../asset/images/guide/tab1_con3.jpg" alt="">
+				<!-- <img src="../../asset/images/guide/tab1_con3.jpg" alt=""> -->
 			</div>
 
 		</div>
@@ -54,8 +55,8 @@
 			<h3>기악단/성악단</h3>
 			<article class="guide-article">
 				<img src="../../asset/images/guide/tab2_con1.jpg" alt="">
-				<p>예술감독과 악장 그리고 대한민국 최고의 기량을 자랑하는 50여명의 단원들로 구성된 기악단․성악단은 정악, 민속악, 창작국악을 아우르며 미래의 전통을 이어하고자 한다.
-					<br> 영남지역의 특수성을 살린 전통 음악을 계승․발전시켜 국악의 생활화와 세계화를 위해 힘쓰고 있으며, 완성도 높은 공연을 통해 관객과 함께 호흡할 수 있는 무대를 만들어 가고 있다. </p>
+				<p>예술감독과 악장 그리고 대한민국 최고의 기량을 자랑하는 50여명의 단원들로 구성된 기악단&middot;성악단은 정악, 민속악, 창작국악을 아우르며 미래의 전통을 이어하고자 한다.
+					<br> 영남지역의 특수성을 살린 전통 음악을 계승&middot;발전시켜 국악의 생활화와 세계화를 위해 힘쓰고 있으며, 완성도 높은 공연을 통해 관객과 함께 호흡할 수 있는 무대를 만들어 가고 있다. </p>
 			</article>
 		</div>
 		<div class="right-area">
@@ -171,12 +172,13 @@
 				<div class="l-con">
 					<h3>북카페</h3>
 					<p>북카페는 교육·연구가 가능한 국악의 역사가 담긴 국악전문도서관이자 모두에게 개방된 복합문화공간이다. <br/>
-					문화예술분야 도서 1천여 권과 일반 서적들도 비치되어 있어 이용객은 누구나 자유롭게 열람할 수 있으며, 고(古)음반부터 창작국악에 이르기까지 다양한 국악을 원내 컴퓨터를 통해 감상할 수 있다. <br/>
+					문화예술분야 도서 1천여 권과 일반 서적들도 비치되어 있어 이용객은 누구나 자유롭게 열람할 수 있으며, 고(古)음반부터 창작국악에 이르기까지 다양한 국악을 원내 컴퓨터를 통해 감상할 수 있다.
+					<br/>
 					모두에게 개방된 국악전문도서관으로 화~토요일 9:00~18:00(일요일,법정공휴일 휴관) 운영하고 있다.</p>
 				</div>
 				<div class="r-con">
 					<img src="../../asset/images/guide/tab5_con1.jpg" alt="">
-					<img src="../../asset/images/guide/tab5_con2.jpg" alt="">
+					<!-- <img src="../../asset/images/guide/tab5_con2.jpg" alt=""> -->
 				</div>
 			</div>
 			<div class="row-con">
@@ -285,7 +287,7 @@
 		</div>
 		<div class="right-area">
 			<h3>지도</h3>
-
+			<div id="map_canvas" style="width: 100%; height: 567px; position: relative; overflow: hidden; background: url('https://t1.daumcdn.net/mapjsapi/images/bg_tile.png');"></div>
 		</div>
 
 	</div>
@@ -306,7 +308,34 @@
 		ticketsContent[num].classList.add('on');
 	}
 </script>
-
+<script type="text/javascript">// <![CDATA[
+$( document ).ready(function() {
+	var mapContainer = document.getElementById('map_canvas'), // 지도를 표시할 div 
+	mapOption = { 
+	    center: new kakao.maps.LatLng(35.171331, 129.054316), // 지도의 중심좌표
+	    level: 4 // 지도의 확대 레벨
+	};
+	
+	var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
+	
+	var imageSrc = '/portal/assets/images/common/top_logo.gif', // 마커이미지의 주소입니다    
+	imageSize = new kakao.maps.Size(80, 36), // 마커이미지의 크기입니다
+	imageOption = {offset: new kakao.maps.Point(45, 50)}; // 마커이미지의 옵션입니다. 마커의 좌표와 일치시킬 이미지 안에서의 좌표를 설정합니다.
+	  
+	//마커의 이미지정보를 가지고 있는 마커이미지를 생성합니다
+	var markerImage = new kakao.maps.MarkerImage(imageSrc, imageSize, imageOption),
+	markerPosition = new kakao.maps.LatLng(35.171331, 129.054316); // 마커가 표시될 위치입니다
+	
+	//마커를 생성합니다
+	var marker = new kakao.maps.Marker({
+	position: markerPosition, 
+	image: markerImage // 마커이미지 설정 
+	});
+	
+	//마커가 지도 위에 표시되도록 설정합니다
+	marker.setMap(map);  
+});
+// ]]></script>
 <!-- /inc/footer.html -->
 <footer id="footer"></footer>
 </body>

@@ -7,7 +7,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0101.jpg',
 		inTit1: '10.27.(금) ~ 11.4.(토) 주중 19:30 주말 15:00',
 		inTit2: '연악당',
-		inTit3: 'S석 20,000원, A석 10,000원',
+		inTit3: 'S석 20,000원 A석 10,000원',
 		link: '0101.html'
 	},
 	{
@@ -18,7 +18,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0101.jpg',
 		inTit1: '10.27.(금) ~ 11.4.(토) 주중 19:30 주말 15:00',
 		inTit2: '연악당',
-		inTit3: 'S석 20,000원, A석 10,000원',
+		inTit3: 'S석 20,000원 A석 10,000원',
 		link: '0101.html'
 	},
 	{
@@ -29,7 +29,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0101.jpg',
 		inTit1: '10.27.(금) ~ 11.4.(토) 주중 19:30 주말 15:00',
 		inTit2: '연악당',
-		inTit3: 'S석 20,000원, A석 10,000원',
+		inTit3: 'S석 20,000원 A석 10,000원',
 		link: '0101.html'
 	},
 	{
@@ -40,7 +40,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0101.jpg',
 		inTit1: '10.27.(금) ~ 11.4.(토) 주중 19:30 주말 15:00',
 		inTit2: '연악당',
-		inTit3: 'S석 20,000원, A석 10,000원',
+		inTit3: 'S석 20,000원 A석 10,000원',
 		link: '0101.html'
 	},
 	{

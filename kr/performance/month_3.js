@@ -5,7 +5,7 @@ let schedule = [
 		category: '정기공연',
 		title: '무용단 정기공연 <강강>',
 		imgSrc: '../../asset/images/performance/thumb/0201.jpg',
-		inTit1: '3. 3.(금) ~ 3.4.(토) 주중 19:30 주말 15:00',
+		inTit1: '3.3.(금) ~ 3.4.(토) 주중 19:30 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 10,000원 A석 8,000원',
 		link: '0201.html'
@@ -16,7 +16,7 @@ let schedule = [
 		category: '정기공연',
 		title: '무용단 정기공연 <강강>',
 		imgSrc: '../../asset/images/performance/thumb/0201.jpg',
-		inTit1: '3. 3.(금) ~ 3.4.(토) 주중 19:30 주말 15:00',
+		inTit1: '3.3.(금) ~ 3.4.(토) 주중 19:30 주말 15:00',
 		inTit2: '연악당',
 		inTit3: 'S석 10,000원 A석 8,000원',
 		link: '0201.html'
@@ -29,7 +29,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
 		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
 	{
@@ -62,7 +62,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
 		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
 	{
@@ -71,9 +71,9 @@ let schedule = [
 		category: '상설공연',
 		title: '토요상설 <토요신명 2023> ',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: '2. 4. ~ 9. 23. 매주 토요일 15:00',
+		inTit1: '2.4. ~ 9.23. 매주 토요일 15:00',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0401.html'
 	},
 	{
@@ -84,7 +84,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
 		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
 	{
@@ -93,9 +93,9 @@ let schedule = [
 		category: '상설공연',
 		title: '토요상설 <토요신명 2023> ',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: '2. 4. ~ 9. 23. 매주 토요일 15:00',
+		inTit1: '2.4. ~ 9.23. 매주 토요일 15:00',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0401.html'
 	},
 	{
@@ -106,7 +106,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
 		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
 	{
@@ -117,7 +117,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0203.jpg',
 		inTit1: '3.31.(금) ~ 4.1.(토) 주중 19:30 주말 15:00',
 		inTit2: '연악당',
-		inTit3: 'S석 10,000원, A석 8,000원',
+		inTit3: 'S석 10,000원 A석 8,000원',
 		link: '0203.html'
 	},
 ];

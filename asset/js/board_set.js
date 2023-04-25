@@ -5,8 +5,11 @@ window.addEventListener('DOMContentLoaded', function(){
 	if (currentPageDepth == 'subPage'){
 		const head = document.getElementsByTagName('head')[0];
 		const script = document.createElement('script');
-		script.src = path+'month_'+currentMonth+'.js';
+		script.src = path+'month_all.js';
 		head.appendChild(script);
+		const script1 = document.createElement('script');
+		script1.src = path+'month_'+currentMonth+'.js';
+		head.appendChild(script1);
 	}
 
 });
@@ -58,6 +61,7 @@ function boardConClickSet() {
 }
 
 function boardConDomSet(currentMonth) {
+	schedule = schedule_allyear.concat(schedule);
 	const boardList = document.getElementById('boardList');
 	let boardConDom = [];
 	let inTitle = '';
@@ -108,7 +112,7 @@ function boardConDomSet(currentMonth) {
 		categoryName[2] = checkENG === false ? '청소년' : 'Teenager';
 		categoryName[3] = checkENG === false ? '외국인' : 'Foreigner';
 	}
-
+	var preDate = "", noTopLine= "";
 	for (let i = 0; i < schedule.length; i++) {
 		if (schedule[i].category == categoryName[0]){
 			boardType = 'type1';
@@ -129,9 +133,23 @@ function boardConDomSet(currentMonth) {
 			boardType = 'type6';
 			btnCategory[6].style.display = "inline";
 		}
-
+		/*
+		if (preDate != "" && preDate == schedule[i].day)
+		{
+			schedule[i].day = "";
+			schedule[i].week = "";
+			noTopLine = "style = 'border-top: 0px;'"
+		}
+		else 	
+		{
+			preDate = schedule[i].day; 
+			noTopLine = "";
+		}
+		//${noTopLine}
+		*/
+		
 		boardConDom[i] =
-		`<li class="board-con ${boardType}">
+		`<li class="board-con ${boardType}" >
 			<div class="top-con">
 				<div class="day-con">${schedule[i].day}</div>
 				<div class="week-con">${schedule[i].week}</div>

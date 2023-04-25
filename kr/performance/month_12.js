@@ -5,7 +5,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -16,7 +16,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -29,7 +29,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
 		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
 	{
@@ -38,7 +38,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -49,7 +49,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -62,7 +62,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
 		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
 	/*{
@@ -82,7 +82,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -93,7 +93,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -106,7 +106,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
 		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
 	{
@@ -115,7 +115,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -126,7 +126,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -139,7 +139,7 @@ let schedule = [
 		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
 		inTit1: '3·6·9·12월 매주 수요일 19:30',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
 	{
@@ -148,7 +148,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'
@@ -159,7 +159,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이를 위한 송년 초청공연 <동화나라 별별친구>',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: '12월 매주 금요일, 토요일 주중 19: 30 주말 11:00, 15:00',
+		inTit1: '12월 매주 금요일, 토요일 주중 19:30 주말 11:00, 15:00',
 		inTit2: '예지당',
 		inTit3: '전석 10,000원',
 		link: '0307.html'

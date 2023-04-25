@@ -20,7 +20,7 @@
 }
 
 * {padding:0;margin:0;}
-body {font:14px/1.4 normal, 'Noto Sans KR', sans-serif;color: #000;}
+body {font:14px/1.4 normal, 'Noto Sans KR', sans-serif;color: #000;word-break: keep-all;}
 button {background: none;outline: none;border:0;cursor: pointer;color: #000;}
 img {vertical-align: top;}
 h1,h2,h3,h4,h5 {font-size: 1rem;font-weight: normal;}
@@ -201,10 +201,10 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .tickets-content h3 {font-weight: bold;color: #246FFD;padding-bottom: 16px;}
 .tickets-content h4 {font-size: 25px;font-weight: bold;margin-bottom: 20px;border-top:1px solid #000000;padding-top: 6px;}
 .tickets-content .table-wrap {margin-bottom: 80px;margin-top: 30px;}
-.tickets-content .table-wrap:last-child {margin-bottom: 0;}
+/*.tickets-content .table-wrap:last-child {margin-bottom: 0;}*/
 .tickets-content .table-wrap .row-con {display: flex;}
 .tickets-content .table-wrap .col-con {padding: 6px 0 18px;border-top:1px solid #000000;}
-.tickets-content .table-wrap .col-con:last-child {padding-bottom: 0;}
+/*.tickets-content .table-wrap .col-con:last-child {padding-bottom: 0;}*/
 .tickets-content .table-wrap .col-con:nth-child(1) {width: 27%;margin-right: 3%;}
 .tickets-content .table-wrap .col-con:nth-child(2) {width: 70%;}
 .tickets-content section .cap {border-top:1px solid #000000;padding-top: 16px;white-space: pre-line;}
@@ -225,7 +225,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .tickets2 .vis-wrap {display: flex;margin-bottom: 80px;}
 .tickets2 .vis-con {width: 33.3%;box-sizing: border-box;padding-right: 20px;}
 .tickets2 .vis-con img {display: block;margin-bottom: 20px;}
-.tickets2 .vis-con p {white-space: pre-line;color: #246FFD;font-weight: bold;}
+.tickets2 .vis-con p {white-space: pre-line;color: #246FFD;font-weight: bold; }
 .tickets2 .right-area .col-con {font-weight: bold;}
 .tickets2 .right-area .col-con p {margin-bottom: 20px;}
 .tickets2 .right-area .col-con img {margin-bottom: 20px;display: block;}
@@ -323,7 +323,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 
 	.tickets .top-area {padding-top: 3em;}
 	.tickets-content {padding: 0 20px;}
-	.tickets-content * {font-size: 15px;}
+	.tickets-content * {font-size: 14px;}
 	.tickets-content h2 {font-size: 26px;}
 	.tickets-content h4 {font-size: 20px;}
 	.tickets-content .left-area {padding-right: 3%;}
@@ -387,7 +387,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 	.tickets .tab-menu .btn-tab {margin:0 0 10px;}
 	.tickets .tab-menu .btn-tab:first-child {margin-left: 20px;}
 	.tickets .tab-menu .btn-tab:last-child {margin-right: 20px;}
-	.tickets2 .vis-con {margin-right: 0;width: 33%;margin-right: 7%;}
+	.tickets2 .vis-con {margin-right: 0;width: 32%;margin-right: 5%;}
 	.tickets2 .vis-con:last-child {width: 30%;margin-right: 0;}
 	.tickets2 .vis-con br {display: none;}
 

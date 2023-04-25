@@ -55,8 +55,8 @@ let schedule = [
 		link: '0101.html'
 	},
 	{
-		day: '30',
-		week: '수 WED',
+		day: '5',
+		week: '토 SAT',
 		category: '일반인',
 		title: '명사 초청 특강',
 		imgSrc: '../../asset/images/education/thumb/0203.jpg',

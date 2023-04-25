@@ -5,7 +5,7 @@ let schedule = [
 		category: '교류공연',
 		title: '국립국악원 교류공연 <축원> ',
 		imgSrc: '../../asset/images/performance/thumb/0601.jpg',
-		inTit1: '2. 3.(금) 19:30',
+		inTit1: '2.3.(금) 19:30',
 		inTit2: '연악당',
 		inTit3: 'S석 10,000원 A석 8,000원',
 		link: '0601.html'
@@ -16,9 +16,9 @@ let schedule = [
 		category: '상설공연',
 		title: '토요상설 <토요신명 2023> ',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: '2. 4. ~ 9. 23. 매주 토요일 15:00',
+		inTit1: '2.4. ~ 9.23. 매주 토요일 15:00',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0401.html'
 	},
 	{
@@ -27,9 +27,9 @@ let schedule = [
 		category: '상설공연',
 		title: '토요상설 <토요신명 2023> ',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: '2. 4. ~ 9. 23. 매주 토요일 15:00',
+		inTit1: '2.4. ~ 9.23. 매주 토요일 15:00',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0401.html'
 	},
 	{
@@ -49,9 +49,9 @@ let schedule = [
 		category: '상설공연',
 		title: '토요상설 <토요신명 2023> ',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: '2. 4. ~ 9. 23. 매주 토요일 15:00',
+		inTit1: '2.4. ~ 9.23. 매주 토요일 15:00',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0401.html'
 	},
 	{
@@ -71,9 +71,9 @@ let schedule = [
 		category: '상설공연',
 		title: '토요상설 <토요신명 2023> ',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: '2. 4. ~ 9. 23. 매주 토요일 15:00',
+		inTit1: '2.4. ~ 9.23. 매주 토요일 15:00',
 		inTit2: '예지당',
-		inTit3: 'A석 10,000원, B석 8,000원',
+		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0401.html'
 	},
 ];
