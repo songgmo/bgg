@@ -128,7 +128,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .sub-section .board-area .board-con.off {display: none;}
 
 /* board content */
-.board-content {padding:0 100px;overflow: hidden;border-top:1px solid #00000050;border-bottom:1px solid #00000050;}
+.board-content {padding:0 100px;overflow: hidden;border-top:1px solid #00000050;border-bottom:0px solid #00000050;}
 .board-content > div {box-sizing: border-box;width: 50%;float: left;padding-top: 40px;padding-bottom: 40px;}
 .board-content .left-area {border-right:1px solid #00000050;padding-right: 5%;}
 
@@ -158,6 +158,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .board-content .pro-cap {margin-bottom: 2.5em;}
 .board-content .det-cap,
 .board-content .pro-cap {font-size: 17px;white-space:pre-line;}
+.board-content .info {font-size: 13px;white-space:pre-line;color: #7f7f7f;}
 
 .board-content .right-area {border-left:1px solid #00000050;text-align: center;padding-left: 5%;margin-left: -1px;}
 .board-content .right-area img {max-width: 100%;display: inline-block;margin-bottom: 0.5em;}
