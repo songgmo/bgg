@@ -27,7 +27,7 @@ let schedule = [
 		category: '명절공연',
 		title: '설공연 &#60;흑토끼 연희 판판판&#62;',
 		imgSrc: '../../asset/images/performance/thumb/0501.jpg',
-		inTit1: '1.21.(토)~1.22.(일) 15:00',
+		inTit1: '1.21.(토) ~ 1.22.(일) 15:00',
 		inTit2: '연악당',
 		inTit3: '전석 10,000원',
 		link: '0501.html'
@@ -38,7 +38,7 @@ let schedule = [
 		category: '명절공연',
 		title: '설공연 &#60;흑토끼 연희 판판판&#62;',
 		imgSrc: '../../asset/images/performance/thumb/0501.jpg',
-		inTit1: '1.21.(토)~1.22.(일) 15:00',
+		inTit1: '1.21.(토) ~ 1.22.(일) 15:00',
 		inTit2: '연악당',
 		inTit3: '전석 10,000원',
 		link: '0501.html'

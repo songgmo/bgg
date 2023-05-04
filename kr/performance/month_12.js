@@ -65,17 +65,6 @@ let schedule = [
 		inTit3: 'A석 10,000원 B석 8,000원',
 		link: '0402.html'
 	},
-	/*{
-		day: '15',
-		week: '금 FRI',
-		category: '기획공연',
-		title: '국악창작실내악 <조약돌 Ⅱ>',
-		imgSrc: '../../asset/images/performance/thumb/0308.jpg',
-		inTit1: '12.15.(금) 19:30',
-		inTit2: '예지당',
-		inTit3: '전석 초대',
-		link: '0308.html'
-	},*/
 	{
 		day: '15',
 		week: '금 FRI',

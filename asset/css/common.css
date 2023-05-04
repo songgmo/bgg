@@ -159,6 +159,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 .board-content .det-cap,
 .board-content .pro-cap {font-size: 17px;white-space:pre-line;}
 .board-content .info {font-size: 13px;white-space:pre-line;color: #7f7f7f;}
+.board-content .info-margintop {margin-top: 2.5em;}
 
 .board-content .right-area {border-left:1px solid #00000050;text-align: center;padding-left: 5%;margin-left: -1px;}
 .board-content .right-area img {max-width: 100%;display: inline-block;margin-bottom: 0.5em;}
@@ -347,7 +348,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 
 	.main-section {height:calc(100vh - 85px);}
 	.menu-schedule {height: 50%;box-sizing: border-box;}
-	.menu-schedule img {height: calc(100% - 52px);object-fit: cover;}
+	.menu-schedule img {height: calc(100% - 52px);object-fit: fill;}
 	.menu-schedule span {line-height: 52px;font-size: 25px;}
 
 	.sub-section .top-area {padding: 10px;}
