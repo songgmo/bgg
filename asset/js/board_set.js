@@ -26,11 +26,12 @@ window.addEventListener('load', function(){
 
 	// 다음 월, 이전 월 링크 세팅
 	monthNum.innerHTML = currentMonth;
+	if(currentMonth == 13) monthNum.innerHTML = "ALL";
 	const linkNext = document.getElementsByClassName('link-next')[0];
 	const linkPrev = document.getElementsByClassName('link-prev')[0];
 	const path = window.location.origin + window.location.pathname;
-	const nextMonth = currentMonth == 12 ? 1 : currentMonth + 1;
-	const prevMonth = currentMonth == 1 ? 12 : currentMonth - 1;
+	const nextMonth = currentMonth == 13 ? 1 : currentMonth + 1;
+	const prevMonth = currentMonth == 1 ? 13 : currentMonth - 1;
 	linkNext.href = path+'?month=' + nextMonth;
 	linkPrev.href = path+'?month=' + prevMonth;
 
@@ -61,7 +62,7 @@ function boardConClickSet() {
 }
 
 function boardConDomSet(currentMonth) {
-	schedule = schedule_allyear.concat(schedule);
+	if(currentMonth != 13)schedule = schedule_allyear.concat(schedule);
 	const boardList = document.getElementById('boardList');
 	let boardConDom = [];
 	let inTitle = '';
