@@ -16,7 +16,7 @@ let schedule_allyear = [
 		category: '일반인',
 		title: '국악과 함께하는 아름다운 동행',
 		imgSrc: '../../asset/images/education/thumb/0204.jpg',
-		inTit1: '장애인, 보육시설 어린이, 양로원 및 요양원',
+		inTit1: '보육시설 어린이, 노인복지관 등',
 		inTit2: '외부 강사',
 		inTit3: '무료',
 		link: '0204.html'

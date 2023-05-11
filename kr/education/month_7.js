@@ -1,6 +1,6 @@
 let schedule = [
 	{
-		day: '15',
+		day: '22',
 		week: '토 SAT',
 		category: '일반인',
 		title: '명사 초청 특강',

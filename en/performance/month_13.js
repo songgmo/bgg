@@ -1,0 +1,222 @@
+let schedule = [
+	{
+		day: '',
+		week: '0101',
+		category: 'Brand',
+		title: 'Brand Concert  Dongrae(tentative)',
+		imgSrc: '../../asset/images/performance/thumb/0101.jpg',
+		inTit1: '10.27.(Fri) ~ 11.4.(Sat)  Weekdays 19:30 Weekends 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 20,000won A seat 10,000won',
+		link: '0101.html'
+	},
+	{
+		day: '',
+		week: '0201',
+		category: 'Regular',
+		title: 'Dance Theater Regular Concert &lt;Ganggang&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0201.jpg',
+		inTit1: '3.3.(Fri) ~ 3.4.(Sat) Weekdays 19:30 Weekends 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 10,000won A seat 8,000won',
+		link: '0201.html'
+	},
+	{
+		day: '',
+		week: '0202',
+		category: 'Regular',
+		title: 'Traditional Music Orchestra Regular Concert &lt;The Charm and Style of Jeongak&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0202.jpg',
+		inTit1: '3.10.(Fri) ~ 3.11.(Sat) Weekdays 19:30 Weekends 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 10,000won A seat 8,000won',
+		link: '0202.html'
+	},
+	{
+		day: '',
+		week: '0203',
+		category: 'Regular',
+		title: 'Folk Performance Group Regular Concert &lt;2023 The Show Finally Come!&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0203.jpg',
+		inTit1: '3.31.(Fri) ~ 4.1.(Sat) Weekdays 19:30 Weekends 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 10,000won A seat 8,000won',
+		link: '0203.html'
+	},
+	{
+		day: '',
+		week: '0204',
+		category: 'Regular',
+		title: 'Traditional Vocal Music Group &lt;The SorigwangdaeⅡ&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0204.jpg',
+		inTit1: '4.13.(Thu) ~ 4.16.(Sun) Weekdays 19:30 Weekends 14:00',
+		inTit2: 'Yeji-dang Hall',
+		inTit3: 'A seat 10,000won B seat 8,000won',
+		link: '0204.html'
+	},
+	{
+		day: '',
+		week: '0301',
+		category: 'Special',
+		title: 'New Year Concert &lt;It is GOOD!&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0301.jpg',
+		inTit1: '1.7.(Sat), 1.14.(Sat), 1.28.(Sat) 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 10,000won A seat 8,000won',
+		link: '0301.html'
+	},
+	{
+		day: '',
+		week: '0302',
+		category: 'Special',
+		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
+		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 20,000won A seat 10,000won',
+		link: '0302.html'
+	},
+	{
+		day: '',
+		week: '0303',
+		category: 'Special',
+		title: 'Barrier Free Concert &lt;Musical Ogi&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0303.jpg',
+		inTit1: '5.17.(Wed) 19:30, 5.18.(Thu) 15:00',
+		inTit2: 'Yeji-dang Hall',
+		inTit3: ' All seats 10,000won',
+		link: '0303.html'
+	},
+	{
+		day: '',
+		week: '0304',
+		category: 'Special',
+		title: 'Yeongnam Dance Festival &lt;We Want Dance&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0304.jpg',
+		inTit1: '7.14.(Fri) ~ 8.12.(Sat) Weekdays 19:30 Weekends 17:00',
+		inTit2: 'Yeonak-dang Hall and Yeji-dang Hall',
+		inTit3: 'Yeonak-dang Hall S seat 20,000won A seat 10,000won Yeji-dang Hall All seats 10,000won',
+		link: '0304.html'
+	},
+	{
+		day: '',
+		week: '0305',
+		category: 'Special',
+		title: 'Children’s Musical &lt;Mermaid Hwangok&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0305.jpg',
+		inTit1: '8.25.(Fri) ~ 8.26.(Sat)  Weekdays 19:30 Weekends 11:00, 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'All Seats 10,000won',
+		link: '0305.html'
+	},
+	{
+		day: '',
+		week: '0306',
+		category: 'Special',
+		title: 'College Gugak Festival &lt;Jieum知音&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0306.jpg',
+		inTit1: '10.13.(Fri) 19:30',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'Free',
+		link: '0306.html'
+	},
+	{
+		day: '',
+		week: '0307',
+		category: 'Special',
+		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
+		inTit2: 'Yeji-dang Hall',
+		inTit3: 'All Seats 10,000won',
+		link: '0307.html'
+	},
+	/*{
+		day: '',
+		week: '0308',
+		category: '기획공연',
+		title: '국악창작실내악 <조약돌 Ⅱ>',
+		imgSrc: '../../asset/images/performance/thumb/0308.jpg',
+		inTit1: '',
+		inTit2: '',
+		inTit3: '',
+		link: '0308.html'
+	},*/
+	{
+		day: '',
+		week: '0401',
+		category: 'Permanent',
+		title: 'Saturday Concert &lt;2023 Saturday performance of Korean music and dance&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
+		inTit1: '2.4.(Sat) ~ 9.23.(Sat) Every Saturday 15:00',
+		inTit2: 'Yeji-dang Hall',
+		inTit3: 'A seat 10,000won B seat 8,000won',
+		link: '0401.html'
+	},
+	{
+		day: '',
+		week: '0402',
+		category: 'Permanent',
+		title: 'Wednesday Concert &lt;Wednesday Performance of Korean Music and Dance&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0402.jpg',
+		inTit1: 'Every Wednesday in March·June·September·December 19:30',
+		inTit2: 'Yeji-dang Hall',
+		inTit3: 'A seat 10,000won B seat 8,000won',
+		link: '0402.html'
+	},
+	{
+		day: '',
+		week: '0501',
+		category: 'Seasonal',
+		title: 'New Year Concert &lt;Black Rabbit Theatric Show Panpanpan&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0501.jpg',
+		inTit1: '1.21.(Sat) ~ 1.22.(Sun) 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'All seats 10,000won',
+		link: '0501.html'
+	},
+	{
+		day: '',
+		week: '0502',
+		category: 'Seasonal',
+		title: 'Full Moon Day Concert &lt;Play with the Moon&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0502.jpg',
+		inTit1: ' 9.29.(Fri) 15:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'All seats 10,000won',
+		link: '0502.html'
+	},
+	{
+		day: '',
+		week: '0601',
+		category: 'Exchange',
+		title: 'National Gugak Center Exchange performance &lt;Chukwon, the Prayer&gt; ',
+		imgSrc: '../../asset/images/performance/thumb/0601.jpg',
+		inTit1: '2.3.(Fri) 19:30',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 10,000won A seat 8,000won',
+		link: '0601.html'
+	},
+	{
+		day: '',
+		week: '0602',
+		category: 'Exchange',
+		title: 'Jindo National Gugak Center Exchange performance &lt;The Island&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0602.jpg',
+		inTit1: '2.17.(Fri) ~ 2.18.(Sat) Weekdays 19:30 Weekends 17:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 10,000won A seat 8,000won',
+		link: '0602.html'
+	},
+	{
+		day: '',
+		week: '0603',
+		category: 'Exchange',
+		title: 'Namwon National Gugak Center Exchange Performance &lt;Byeolnangakssi&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0603.jpg',
+		inTit1: '11.24.(Fri) ~ 11.25.(Sat)  Weekdays 19:30 Weekends 17:00',
+		inTit2: 'Yeonak-dang Hall',
+		inTit3: 'S seat 10,000won A seat 8,000won',
+		link: '0603.html'
+	},
+];

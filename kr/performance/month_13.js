@@ -104,7 +104,7 @@ let schedule = [
 		category: '기획공연',
 		title: '어린이 국악극 <인어공주 황옥>',
 		imgSrc: '../../asset/images/performance/thumb/0305.jpg',
-		inTit1: '8.25.(금) ~ 8.26.(토) 주중 19:30 주말 11:15',
+		inTit1: '8.25.(금) ~ 8.26.(토) 주중 19:30 주말 11:00, 15:00',
 		inTit2: '연악당',
 		inTit3: '전석 10,000원',
 		link: '0305.html'

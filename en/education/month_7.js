@@ -1,7 +1,7 @@
 let schedule = [
 	{
-		day: '26',
-		week: '수 WED',
+		day: '22',
+		week: '토 SAT',
 		category: 'Ordinary person',
 		title: 'Talk with Masters',
 		imgSrc: '../../asset/images/education/thumb/0203.jpg',

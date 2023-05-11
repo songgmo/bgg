@@ -5,9 +5,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: 'May. 3.(Wed) ~ 6(Sat), 10.(Wed) ~ 13.(Sat) Weekdays 20:00, Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'S seat 20,000won, A seat 10,000won',
+		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'
 	},
 	{
@@ -16,9 +16,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: 'May. 3.(Wed) ~ 6(Sat), 10.(Wed) ~ 13.(Sat) Weekdays 20:00, Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'S seat 20,000won, A seat 10,000won',
+		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'
 	},
 	{
@@ -27,9 +27,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: 'May. 3.(Wed) ~ 6(Sat), 10.(Wed) ~ 13.(Sat) Weekdays 20:00, Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'S seat 20,000won, A seat 10,000won',
+		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'
 	},
 	{
@@ -38,9 +38,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: 'May. 3.(Wed) ~ 6(Sat), 10.(Wed) ~ 13.(Sat) Weekdays 20:00, Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'S seat 20,000won, A seat 10,000won',
+		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'
 	},
 	{
@@ -49,9 +49,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: 'May. 3.(Wed) ~ 6(Sat), 10.(Wed) ~ 13.(Sat) Weekdays 20:00, Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'S seat 20,000won, A seat 10,000won',
+		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'
 	},
 	{
@@ -60,9 +60,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: 'May. 3.(Wed) ~ 6(Sat), 10.(Wed) ~ 13.(Sat) Weekdays 20:00, Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'S seat 20,000won, A seat 10,000won',
+		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'
 	},
 	{
@@ -71,9 +71,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: 'May. 3.(Wed) ~ 6(Sat), 10.(Wed) ~ 13.(Sat) Weekdays 20:00, Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'S seat 20,000won, A seat 10,000won',
+		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'
 	},
 	{
@@ -82,9 +82,9 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: 'May. 3.(Wed) ~ 6(Sat), 10.(Wed) ~ 13.(Sat) Weekdays 20:00, Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
-		inTit3: 'S seat 20,000won, A seat 10,000won',
+		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'
 	},
 	{
@@ -93,7 +93,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Barrier Free Concert &lt;Musical Ogi&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0303.jpg',
-		inTit1: ' 5. 17.(Wed) 19:30',
+		inTit1: '5.17.(Wed) 19:30, 5.18.(Thu) 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All seats 10,000won',
 		link: '0303.html'
@@ -104,7 +104,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Barrier Free Concert &lt;Musical Ogi&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0303.jpg',
-		inTit1: ' 5. 18.(Thu) 15:00',
+		inTit1: '5.17.(Wed) 19:30, 5.18.(Thu) 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: ' All seats 10,000won',
 		link: '0303.html'
@@ -115,9 +115,9 @@ let schedule = [
 		category: 'Permanent',
 		title: 'Saturday Concert &lt;2023 Saturday performance of Korean music and dance&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: ' 2. 4. ~ 9. 23. Every Saturday 15:00',
+		inTit1: '2.4.(Sat) ~ 9.23.(Sat) Every Saturday 15:00',
 		inTit2: 'Yeji-dang Hall',
-		inTit3: ' A seat 10,000won, B seat 8,000won',
+		inTit3: 'A seat 10,000won B seat 8,000won',
 		link: '0401.html'
 	},
 	{
@@ -126,9 +126,9 @@ let schedule = [
 		category: 'Permanent',
 		title: 'Saturday Concert &lt;2023 Saturday performance of Korean music and dance&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0401.jpg',
-		inTit1: ' 2. 4. ~ 9. 23. Every Saturday 15:00',
+		inTit1: '2.4.(Sat) ~ 9.23.(Sat) Every Saturday 15:00',
 		inTit2: 'Yeji-dang Hall',
-		inTit3: ' A seat 10,000won, B seat 8,000won',
+		inTit3: 'A seat 10,000won B seat 8,000won',
 		link: '0401.html'
 	},
 ];

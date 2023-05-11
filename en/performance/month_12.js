@@ -5,7 +5,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -16,7 +16,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -38,7 +38,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -49,7 +49,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -82,7 +82,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -93,7 +93,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -115,7 +115,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -126,7 +126,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -148,7 +148,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
@@ -159,7 +159,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Year End Invitation Concert for Children &lt;Stories from the Kids Kingdom Friends&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0307.jpg',
-		inTit1: 'Every Fri. Sat. in December, Weekdays 19: 30 Weekends 11:00, 15:00
+		inTit1: 'Every Fri. Sat. in December, Weekdays 19:30 Weekends 11:00, 15:00',
 		inTit2: 'Yeji-dang Hall',
 		inTit3: 'All Seats 10,000won',
 		link: '0307.html'
