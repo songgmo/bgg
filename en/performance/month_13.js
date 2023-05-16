@@ -71,7 +71,7 @@ let schedule = [
 		category: 'Special',
 		title: 'Korean Wave Promotion Gugak Concert &lt;Dance of Joseon Envoys – Secret of Yuma painting&gt; SeasonⅡ',
 		imgSrc: '../../asset/images/performance/thumb/0302.jpg',
-		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 20:00 Weekends 15:00',
+		inTit1: '5.3.(Wed) ~ 5.6.(Sat), 5.10.(Wed) ~ 5.13.(Sat) Weekdays 19:30 Weekends 15:00',
 		inTit2: 'Yeonak-dang Hall',
 		inTit3: 'S seat 20,000won A seat 10,000won',
 		link: '0302.html'

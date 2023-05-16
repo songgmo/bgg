@@ -16,7 +16,7 @@ let schedule_allyear = [
 		category: 'Ordinary person',
 		title: 'Beautiful accompaniment with Gugak',
 		imgSrc: '../../asset/images/education/thumb/0204.jpg',
-		inTit1: 'Children and seniors in welfare agency, patient in nursing home',
+		inTit1: 'Children and seniors in welfare agency',
 		inTit2: 'Invited instructors',
 		inTit3: 'Free',
 		link: '0204.html'
