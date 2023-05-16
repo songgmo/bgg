@@ -55,17 +55,6 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
-		day: '8',
-		week: '월 MON',
-		category: 'Ordinary person',
-		title: 'Gugak Culture School <span style="font-size:80%;">buk janggu haegeum A gayageum</span>',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: 'Adults',
-		inTit2: 'Invited teachers',
-		inTit3: '150,000won',
-		link: '0201.html'
-	},
-	{
 		day: '6',
 		week: '토 SAT',
 		category: 'Ordinary person',
@@ -75,6 +64,17 @@ let schedule = [
 		inTit2: 'Gugak Specialists',
 		inTit3: 'Free',
 		link: '0203.html'
+	},
+	{
+		day: '8',
+		week: '월 MON',
+		category: 'Ordinary person',
+		title: 'Gugak Culture School <span style="font-size:80%;">buk janggu haegeum A gayageum</span>',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: 'Adults',
+		inTit2: 'Invited teachers',
+		inTit3: '150,000won',
+		link: '0201.html'
 	},
 	{
 		day: '9',

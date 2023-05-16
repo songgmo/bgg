@@ -11,4 +11,3 @@ let schedule = [
 		link: '0205.html'
 	},
 ];
-	

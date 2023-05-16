@@ -55,17 +55,6 @@ let schedule = [
 		link: '0201.html'
 	},
 	{
-		day: '8',
-		week: '월 MON',
-		category: '일반인',
-		title: '국악문화학교 <span style="font-size:80%;">고법(북&middot;장구) 해금A 가야금</span>',
-		imgSrc: '../../asset/images/education/thumb/0201.jpg',
-		inTit1: '일반인(성인)',
-		inTit2: '외부 강사',
-		inTit3: '150,000원',
-		link: '0201.html'
-	},
-	{
 		day: '6',
 		week: '토 SAT',
 		category: '일반인',
@@ -75,6 +64,17 @@ let schedule = [
 		inTit2: '유명 국악인',
 		inTit3: '무료',
 		link: '0203.html'
+	},
+	{
+		day: '8',
+		week: '월 MON',
+		category: '일반인',
+		title: '국악문화학교 <span style="font-size:80%;">고법(북&middot;장구) 해금A 가야금</span>',
+		imgSrc: '../../asset/images/education/thumb/0201.jpg',
+		inTit1: '일반인(성인)',
+		inTit2: '외부 강사',
+		inTit3: '150,000원',
+		link: '0201.html'
 	},
 	{
 		day: '9',

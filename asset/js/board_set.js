@@ -35,7 +35,7 @@ window.addEventListener('load', function(){
 	linkNext.href = path+'?month=' + nextMonth;
 	linkPrev.href = path+'?month=' + prevMonth;
 
-
+	//console.log("currentMonth: ",currentMonth);
 	// 게시물 DOM 생성
 	boardConDomSet(currentMonth);
 

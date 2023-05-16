@@ -56,7 +56,7 @@ let schedule = [
 	},
 	{
 		day: '18',
-		week: '금 FRI',
+		week: '토 SAT',
 		category: 'Exchange',
 		title: 'Jindo National Gugak Center Exchange performance &lt;The Island&gt;',
 		imgSrc: '../../asset/images/performance/thumb/0602.jpg',

@@ -39,7 +39,7 @@ let schedule = [
 		title: 'Yeongnam Dance Class',
 		imgSrc: '../../asset/images/education/thumb/0202.jpg',
 		inTit1: 'Busan local resident',
-		inTit2: 'Invited teachers(Holder, practitioner of Intangible Cultural Property)',
+		inTit2: 'Invited instructors(Holder, practitioner of Intangible Cultural Property)',
 		inTit3: '100,000원',
 		link: '0202.html'
 	},
@@ -126,7 +126,7 @@ let schedule = [
 		category: 'Foreigner',
 		title: 'Gugak Class for Foreigners',
 		imgSrc: '../../asset/images/education/thumb/0402.jpg',
-		inTit1: 'Foreigner',
+		inTit1: 'Busan resident foreigners',
 		inTit2: 'Busan National Gugak Center Traditional Music Orchestra, Invited instructors',
 		inTit3: 'Free',
 		link: '0402.html'
