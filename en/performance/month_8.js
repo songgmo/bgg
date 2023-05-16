@@ -33,6 +33,17 @@ let schedule = [
 		link: '0304.html'
 	},
 	{
+		day: '8',
+		week: '화 TUE',
+		category: 'Special',
+		title: 'Yeongnam Dance Festival &lt;We Want Dance&gt;',
+		imgSrc: '../../asset/images/performance/thumb/0304.jpg',
+		inTit1: '7.14.(Fri) ~ 8.12.(Sat) Weekdays 19:30 Weekends 17:00',
+		inTit2: 'Yeonak-dang Hall and Yeji-dang Hall',
+		inTit3: 'Yeonak-dang Hall S seat 20,000won A seat 10,000won Yeji-dang Hall All seats 10,000won',
+		link: '0304.html'
+	},
+	{
 		day: '9',
 		week: '수 WED',
 		category: 'Special',

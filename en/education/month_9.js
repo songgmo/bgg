@@ -439,16 +439,4 @@ let schedule = [
 		inTit3: '100,000원',
 		link: '0202.html'
 	},
-	{
-		day: '30',
-		week: '토 SAT',
-		category: 'Foreigner',
-		title: 'Gugak Class for Foreigners',
-		imgSrc: '../../asset/images/education/thumb/0402.jpg',
-		inTit1: 'foreigners',
-		inTit2: 'Busan National Gugak Center Traditional Music Orchestra, Invited instructors',
-		inTit3: 'Free',
-		link: '0402.html'
-	},
-
 ];

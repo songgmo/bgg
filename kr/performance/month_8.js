@@ -33,6 +33,17 @@ let schedule = [
 		link: '0304.html'
 	},
 	{
+		day: '8',
+		week: '화 TUE',
+		category: '기획공연',
+		title: '영남춤축제 <춤, 보고싶다>',
+		imgSrc: '../../asset/images/performance/thumb/0304.jpg',
+		inTit1: '7.14.(금) ~ 8.12.(토) 주중 19:30 주말 17:00',
+		inTit2: '연악당, 예지당, 야외마당, 강습실',
+		inTit3: '연악당 S석 20,000원 A석 10,000원 예지당 전석 10,000원',
+		link: '0304.html'
+	},
+	{
 		day: '9',
 		week: '수 WED',
 		category: '기획공연',
