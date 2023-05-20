@@ -1,7 +1,7 @@
 let schedule_allyear = [
 	{
 		day: '',
-		week: 'year-around',
+		week: 'year-<br/>around',
 		category: 'Teenager',
 		title: 'School Support and Outreach Program',
 		imgSrc: '../../asset/images/education/thumb/0301.jpg',
@@ -12,7 +12,7 @@ let schedule_allyear = [
 	},
 	{
 		day: '',
-		week: 'year-around',
+		week: 'year-<br/>around',
 		category: 'Ordinary person',
 		title: 'Beautiful accompaniment with Gugak',
 		imgSrc: '../../asset/images/education/thumb/0204.jpg',
@@ -23,7 +23,7 @@ let schedule_allyear = [
 	},
 	{
 		day: '',
-		week: 'year-around',
+		week: 'year-<br/>around',
 		category: 'Foreigner',
 		title: 'One Day Gugak Experience',
 		imgSrc: '../../asset/images/education/thumb/0401.jpg',

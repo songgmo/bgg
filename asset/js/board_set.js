@@ -158,7 +158,7 @@ function boardConDomSet(currentMonth) {
 				<div class="title-con">${schedule[i].title}</div>
 			</div>
 			<div class="bot-con">
-				<img class="board-img" src="${schedule[i].imgSrc}" alt="">
+				<img class="board-img" src="${schedule[i].imgSrc}" alt="" onerror="this.onerror=null; this.remove();">
 				<div class="table-con">
 					<dl>
 						<dt>${inTitle[0]}</dt>

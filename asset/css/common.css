@@ -382,7 +382,7 @@ footer .logo-bottom {position: absolute;right:0;top:4px;}
 	.tickets .top-area {padding:20px 0 0;}
 	.tickets-content {padding: 0;border:0;}
 	.tickets-content .left-area {border: 0;float: none;width: auto;padding: 30px;}
-	.tickets-content .right-area {width: auto;padding: 30px;}
+	.tickets-content .right-area {width: 100%;padding: 30px;}
 	.tickets-content h2 {position: static;margin-bottom: 60px;}
 
 	.tickets .tab-menu {white-space: nowrap;overflow: auto;width: 100%;padding-bottom: 20px;}
