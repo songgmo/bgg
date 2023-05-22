@@ -7,9 +7,12 @@
 	<link rel="icon" type="image/x-icon" href="../../asset/images/common/favicon.ico">
 	<link rel="stylesheet" href="../../asset/css/common.css">
 	<title>국립부산국악원</title>
-	<script type="text/javascript" src="/portal/assets/js/jquery-1.11.2.min.js"></script>
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  crossorigin="anonymous"></script>
+	<!--//<script type="text/javascript" src="/portal/assets/js/jquery-1.11.2.min.js"></script>//-->
 	<script src="../../asset/js/common.js"></script>
-	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=7adec4b7918b3ad485e9cd9505ae8ee5"></script>
+	<!--//<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=7adec4b7918b3ad485e9cd9505ae8ee5"></script>//-->
+	<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=509b8a4fe382d5be40f6418579411a1d"></script>
 </head>
 <body class="sub">
 <!-- /inc/header.html -->
@@ -297,9 +300,6 @@
 </main>
 <script>
 	function ticketsTabNebu(num, btn){
-		const btnTab = document.querySelectorAll('.btn-tab');
-		const ticketsContent = document.querySelectorAll('.tickets-content');
-
 		for (let i = 0; i < btnTab.length; i++) {
 			btnTab[i].classList.remove('on');
 			ticketsContent[i].classList.remove('on');
@@ -308,15 +308,19 @@
 		btn.classList.add('on');
 		ticketsContent[num].classList.add('on');
 
-
-		history.pushState(null, null, location.pathname+"?tab="+num);
+		history.pushState(null, null, location.pathname+"?tab="+num)
 	}
 	const ticketsContent = document.querySelectorAll('.tickets-content');
 	const btnTab = document.querySelectorAll('.btn-tab');
-	ticketsContent[7].classList.remove('on');
 	let currentTab = parseInt(window.location.search.split('tab=')[1]);
 	if(!currentTab) currentTab = "0";
-	ticketsTabNebu(currentTab,btnTab[currentTab]);
+	for (let i = 0; i < btnTab.length-1; i++) 
+	{
+		btnTab[i].classList.remove('on');
+		ticketsContent[i].classList.remove('on');
+	}
+	btnTab[currentTab].classList.add('on');
+	ticketsContent[currentTab].classList.add('on');
 </script>
 <script type="text/javascript">// <![CDATA[
 $( document ).ready(function() {
@@ -345,6 +349,7 @@ $( document ).ready(function() {
 	//마커가 지도 위에 표시되도록 설정합니다
 	marker.setMap(map);  
 
+	if(currentTab != 7) ticketsContent[7].classList.remove('on');
 });
 // ]]></script>
 <!-- /inc/footer.html -->
