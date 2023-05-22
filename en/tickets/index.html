@@ -504,8 +504,6 @@
 </main>
 <script>
 	function ticketsTabNebu(num, btn){
-		const btnTab = document.querySelectorAll('.btn-tab');
-		const ticketsContent = document.querySelectorAll('.tickets-content');
 
 		for (let i = 0; i < btnTab.length; i++) {
 			btnTab[i].classList.remove('on');
@@ -514,7 +512,16 @@
 
 		btn.classList.add('on');
 		ticketsContent[num].classList.add('on');
+
+		history.pushState(null, null, location.pathname+"?tab="+num)
 	}
+
+	const ticketsContent = document.querySelectorAll('.tickets-content');
+	const btnTab = document.querySelectorAll('.btn-tab');
+	let currentTab = parseInt(window.location.search.split('tab=')[1]);
+	if(!currentTab) currentTab = "0";
+
+	ticketsTabNebu(currentTab,btnTab[currentTab]);
 </script>
 
 <!-- /inc/footer.html -->
